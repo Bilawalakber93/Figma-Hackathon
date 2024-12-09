@@ -26,7 +26,7 @@ export default function SevenHero() {
         <div className="bg-white text-black p-8 rounded-lg relative">
           <div className="absolute -top-10 left-1/2 transform -translate-x-1/2">
             <Image
-              src="/review.jpeg"
+              src="/Chief-img/Cheif-4.png"
               alt=""
               width={80}
               height={80}
