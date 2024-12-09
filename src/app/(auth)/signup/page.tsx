@@ -73,7 +73,7 @@ export default function SignUpPage() {
               Sign up with Google
             </button>
             <button className="w-full bg-gray-100 border text-black py-2 rounded mt-2 flex items-center justify-center">
-              <img src="/Apple.png" alt="Apple" width={-2} height={6} className="h-6 mr-2" />
+              <Image src="/Apple.png" alt="Apple" width={-2} height={6} className="h-6 mr-2" />
               Sign up with Apple
             </button>
           </div>
